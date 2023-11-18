@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/lokmvnee" target="blank"><img src="https://img.shields.io/twitter/follow/lokmvnee?logo=twitter&style=for-the-badge" alt="lokmvnee" /></a> </p>
 
-- 🔭 I’m currently working on **ANDROID APP**
+- 🔭 I’m currently working on **ANDROID APPs**
 
 - 🌱 I’m currently learning **ANDROID DEVELOPMENT**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lokmanekerboua](https://github.com/lokmanekerboua)
 
-- 💬 Ask me about **Kotlin , jetpack compose**
+- 💬 Ask me about **Kotlin , jetpack compose, NodeJs, Nosql Db.**
 
 - 📫 How to reach me **lokmankerboua@gmail.com**
 
