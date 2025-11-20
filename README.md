@@ -66,15 +66,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lokmanekerboua&show_icons=true&locale=en&layout=compact&theme=dark" alt="lokmanekerboua" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lokmanekerboua&show_icons=true&theme=dark" alt="GitHub Stats"/>
-</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokmanekerboua&theme=dark" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lokmanekerboua&theme=react-dark" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lokmanekerboua&theme=github-dark-dimmed&days=30&area=true" alt="Activity Graph"/>
 </p>
 
