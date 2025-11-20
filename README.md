@@ -62,6 +62,9 @@
 <br>
 
 <h2 align="center">GitHub Stats</h2>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lokmanekerboua&show_icons=true&locale=en&layout=compact" alt="lokmanekerboua" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lokmanekerboua&show_icons=true&theme=dark" alt="GitHub Stats"/>
