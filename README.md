@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm LOKMANE KERBOUA</h1>
-<h3 align="center">A passionate Software developer from Algeria</h3>
+<h1 align="center">Hi, I'm LOKMANE KERBOUA</h1>
+<h3 align="center">Network Engineer & Software Developer | Mobile & Backend </h3>
 
 <img align="right" alt="coding" width="300" src="https://enacteservices.com/wp-content/themes/twentytwenty/images/hire-developer/animation_500_l4zc9j5g.gif">
 
 <p align="left"> <a href="https://twitter.com/lokmvnee" target="blank"><img src="https://img.shields.io/twitter/follow/lokmvnee?logo=twitter&style=for-the-badge" alt="lokmvnee" /></a> </p>
+
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:lokmanekerboua)
 
 - 🔭 I’m currently working on **ANDROID APPs**
 
@@ -11,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/lokmanekerboua](https://github.com/lokmanekerboua)
 
-- 💬 Ask me about **Kotlin , jetpack compose, NodeJs, Nosql Db.**
+- 💬 Ask me about **Kotlin , jetpack compose, SpringBoot, Nosql Db.**
 
 - 📫 How to reach me **lokmankerboua@gmail.com**
 
