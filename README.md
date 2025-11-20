@@ -63,7 +63,7 @@
 
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lokmanekerboua&show_icons=true&locale=fr&layout=compact&theme=github_dark_dimmed" alt="lokmanekerboua" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lokmanekerboua&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed" alt="lokmanekerboua" />
 </p>
 
 
