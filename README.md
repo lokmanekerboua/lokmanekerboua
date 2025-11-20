@@ -63,11 +63,11 @@
 
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lokmanekerboua&show_icons=true&locale=en&layout=compact&theme=dark" alt="lokmanekerboua" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lokmanekerboua&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed" alt="lokmanekerboua" />
 </p>
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lokmanekerboua&theme=github-dark-dimmed&days=30&area=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lokmanekerboua&theme=github-dark-dimmed&days=40&area=true&radius=10" alt="Activity Graph"/>
 </p>
 
