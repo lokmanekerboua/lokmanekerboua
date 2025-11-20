@@ -75,6 +75,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lokmanekerboua&theme=react-dark" alt="Activity Graph"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lokmanekerboua&layout=default&langs_count=10&theme=dark" alt="Top Languages"/>
-</p>
