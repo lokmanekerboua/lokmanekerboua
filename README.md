@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **Mobile  & BackEnd**
+- 🔭 I'm currently working on **Mobile  & BackEnd**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lokmanekerboua](https://github.com/lokmanekerboua)
 
@@ -40,6 +40,15 @@
   <a href="https://ktor.io/" target="_blank" rel="noreferrer">
     <img src="https://api.iconify.design/devicon:ktor.svg" alt="ktor" width="40" height="40"/>
   </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://api.iconify.design/logos:php.svg" alt="php" width="40" height="40"/>
+  </a>
+  <a href="https://symfony.com/" target="_blank" rel="noreferrer">
+    <img src="https://api.iconify.design/logos:symfony.svg" alt="symfony" width="40" height="40"/>
+  </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://api.iconify.design/logos:vue.svg" alt="vuejs" width="40" height="40"/>
+  </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://api.iconify.design/vscode-icons:file-type-firebase.svg" alt="firebase" width="40" height="40"/>
   </a>
@@ -53,10 +62,10 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
   <a href="#" rel="noreferrer">
-    <img src="https://api.iconify.design/skill-icons:github-dark.svg" alt="Githu Actions" width="40" height="40"/>
+    <img src="https://api.iconify.design/skill-icons:github-dark.svg" alt="GitHub" width="40" height="40"/>
   </a>
   <a href="#" rel="noreferrer">
-    <img src="https://api.iconify.design/skill-icons:githubactions-dark.svg" alt="Githu Actions" width="40" height="40"/>
+    <img src="https://api.iconify.design/skill-icons:githubactions-dark.svg" alt="GitHub Actions" width="40" height="40"/>
   </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://api.iconify.design/logos:docker-icon.svg" alt="docker" width="40" height="40"/>
@@ -70,8 +79,9 @@
 
 
 <h2 align="center">GitHub Stats</h2>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lokmanekerboua&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed" alt="lokmanekerboua" />
+</p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lokmanekerboua&theme=github-dark-dimmed&days=40&area=true&radius=15" alt="Activity Graph"/>
 </p>
-
