@@ -49,6 +49,9 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://api.iconify.design/logos:vue.svg" alt="vuejs" width="40" height="40"/>
   </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://api.iconify.design/logos:react.svg" alt="react" width="40" height="40"/>
+  </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://api.iconify.design/vscode-icons:file-type-firebase.svg" alt="firebase" width="40" height="40"/>
   </a>
@@ -69,6 +72,9 @@
   </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://api.iconify.design/logos:docker-icon.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://api.iconify.design/logos:kubernetes.svg" alt="kubernetes" width="40" height="40"/>
   </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
