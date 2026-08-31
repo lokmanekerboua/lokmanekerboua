@@ -203,7 +203,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" title="AWS" width="40" height="40"/>
   </a>
   <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/sonarqube" alt="SonarQube" title="SonarQube" width="40" height="40"/>
+    <img src="https://api.iconify.design/logos:sonarqube.svg" alt="SonarQube" title="SonarQube" width="40" height="40"/>
   </a>
   <a href="https://n8n.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/n8n" alt="n8n" title="n8n" width="40" height="40"/>
