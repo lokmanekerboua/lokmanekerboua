@@ -215,13 +215,13 @@
 
 <br>
 
-<h2 align="center">📈 GitHub Contributions</h2>
+<h2 align="center">📈 GitHub Activity Graph</h2>
 
 <p align="center">
   <a href="https://github.com/lokmanekerboua">
     <img
-      src="https://ghchart.rshah.org/lokmanekerboua"
-      alt="Lokmane Kerboua GitHub Contributions"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=lokmanekerboua&theme=github-dark-dimmed&area=true&hide_border=true"
+      alt="Lokmane Kerboua GitHub Activity Graph"
       width="100%"
     />
   </a>
