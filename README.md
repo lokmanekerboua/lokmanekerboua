@@ -7,11 +7,7 @@
 
 🎓 I'm currently pursuing a Master 2 MIAGE at Université Grenoble Alpes
 
-🔎 I'm looking for a 12-month work-study position in Data Analysis & Artificial Intelligence starting September 2026
-
 👨‍💻 All of my projects are available at https://github.com/lokmanekerboua
-
-💬 Ask me about Data, Machine Learning, Big Data, Full Stack Development & New Technologies
 
 📫 How to reach me lokmankerboua@gmail.com
 
