@@ -20,56 +20,77 @@
 
 <h2 align="center">🚀 Languages & Technologies</h2>
 
-💻 Backend & Full Stack Development
+💻 Programming Languages
 <p align="left">
-  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" alt="Java" height="48" /></a>
-  <a href="https://kotlinlang.org/"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" height="48" /></a>
-  <a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" height="48" /></a>
-  <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" alt="PHP" height="48" /></a>
-  <a href="https://symfony.com/"><img src="https://skillicons.dev/icons?i=symfony" alt="Symfony" height="48" /></a>
-  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="48" /></a>
-  <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" height="48" /></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="48" /></a>
-  <a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" height="48" /></a>
-  <a href="https://angular.dev/"><img src="https://skillicons.dev/icons?i=angular" alt="Angular" height="48" /></a>
-  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React" height="48" /></a>
-  <a href="https://graphql.org/"><img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" height="48" /></a>
+  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" title="Java" width="48" height="48" /></a>
+  <a href="https://kotlinlang.org/"><img src="https://skillicons.dev/icons?i=kotlin&theme=dark" alt="Kotlin" title="Kotlin" width="48" height="48" /></a>
+  <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" title="PHP" width="48" height="48" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" title="TypeScript" width="48" height="48" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" title="JavaScript" width="48" height="48" /></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" title="Python" width="48" height="48" /></a>
 </p>
 
-Backend: REST APIs • GraphQL • JWT • Spring Security • Doctrine ORM • OpenAPI • Hexagonal Architecture
-📱 Mobile Development
+🎨 Frontend Development
 <p align="left">
-  <a href="https://developer.android.com/"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" height="48" /></a>
-  <a href="https://kotlinlang.org/"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" height="48" /></a>
-  <a href="https://developer.android.com/compose"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" alt="Jetpack Compose" height="48" width="48" /></a>
-  <a href="https://ktor.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ktor/ktor-original.svg" alt="Ktor" height="48" width="48" /></a>
-  <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" height="48" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" title="HTML" width="48" height="48" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" title="CSS" width="48" height="48" /></a>
+  <a href="https://angular.dev/"><img src="https://skillicons.dev/icons?i=angular&theme=dark" alt="Angular" title="Angular" width="48" height="48" /></a>
+  <a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue&theme=dark" alt="Vue.js" title="Vue.js" width="48" height="48" /></a>
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" title="React" width="48" height="48" /></a>
+  <a href="https://vite.dev/"><img src="https://skillicons.dev/icons?i=vite&theme=dark" alt="Vite" title="Vite" width="48" height="48" /></a>
 </p>
 
-🗄️ Databases
+⚙️ Backend Development & APIs
 <p align="left">
-  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="48" /></a>
-  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="48" /></a>
-  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="48" /></a>
-  <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" height="48" /></a>
-  <a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" height="48" /></a>
+  <a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring Boot" title="Spring Boot" width="48" height="48" /></a>
+  <a href="https://symfony.com/"><img src="https://skillicons.dev/icons?i=symfony&theme=dark" alt="Symfony" title="Symfony" width="48" height="48" /></a>
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" title="Node.js" width="48" height="48" /></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" title="FastAPI" width="48" height="48" /></a>
+  <a href="https://graphql.org/"><img src="https://skillicons.dev/icons?i=graphql&theme=dark" alt="GraphQL" title="GraphQL" width="48" height="48" /></a>
+  <a href="https://ktor.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ktor/ktor-original.svg" alt="Ktor" title="Ktor" width="48" height="48" /></a>
+</p>
+
+Concepts: REST APIs • GraphQL • JWT • Spring Security • Doctrine ORM • OpenAPI • Hexagonal Architecture
+📱 Mobile Application Development
+<p align="left">
+  <a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" alt="Android Studio" title="Android Studio" width="48" height="48" /></a>
+  <a href="https://kotlinlang.org/"><img src="https://skillicons.dev/icons?i=kotlin&theme=dark" alt="Kotlin" title="Kotlin" width="48" height="48" /></a>
+  <a href="https://developer.android.com/compose"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" alt="Jetpack Compose" title="Jetpack Compose" width="48" height="48" /></a>
+  <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase" title="Firebase" width="48" height="48" /></a>
+</p>
+
+🗄️ Databases & Caching
+<p align="left">
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" title="PostgreSQL" width="48" height="48" /></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" title="MySQL" width="48" height="48" /></a>
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" title="MongoDB" width="48" height="48" /></a>
+  <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" title="Redis" width="48" height="48" /></a>
+  <a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="SQLite" title="SQLite" width="48" height="48" /></a>
 </p>
 
 Concepts: SQL • NoSQL • Relational Modeling • Database Indexing • Transactions • Query Optimization
-🛠️ DevOps, Cloud & Automation
+🧪 Testing, API Tools & Code Quality
 <p align="left">
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" height="48" /></a>
-  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" height="48" /></a>
-  <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" alt="GitHub Actions" height="48" /></a>
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="48" /></a>
-  <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" height="48" /></a>
-  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" height="48" /></a>
-  <a href="https://www.sonarsource.com/products/sonarqube/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" height="48" width="48" /></a>
-  <a href="https://n8n.io/"><img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" height="48" width="48" /></a>
-  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="48" /></a>
+  <a href="https://junit.org/junit5/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" alt="JUnit" title="JUnit" width="48" height="48" /></a>
+  <a href="https://phpunit.de/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/phpunit/phpunit-original.svg" alt="PHPUnit" title="PHPUnit" width="48" height="48" /></a>
+  <a href="https://playwright.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright" title="Playwright" width="48" height="48" /></a>
+  <a href="https://www.sonarsource.com/products/sonarqube/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" title="SonarQube" width="48" height="48" /></a>
+  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" title="Postman" width="48" height="48" /></a>
 </p>
 
-Practices: CI/CD • Automated Testing • Dockerized Deployment • Code Quality • Workflow Automation
+Practices: Unit Testing • Integration Testing • End-to-End Testing • API Testing • Static Code Analysis • Code Quality
+☁️ DevOps, Cloud & Automation
+<p align="left">
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git" width="48" height="48" /></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" title="GitHub" width="48" height="48" /></a>
+  <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" alt="GitHub Actions" title="GitHub Actions" width="48" height="48" /></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" title="Docker" width="48" height="48" /></a>
+  <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" alt="Kubernetes" title="Kubernetes" width="48" height="48" /></a>
+  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" title="AWS" width="48" height="48" /></a>
+  <a href="https://n8n.io/"><img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" title="n8n" width="48" height="48" /></a>
+</p>
+
+Practices: CI/CD • Automated Builds & Deployments • Containerization • Workflow Automation
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
