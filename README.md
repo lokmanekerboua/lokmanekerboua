@@ -70,12 +70,33 @@ Concepts: SQL • NoSQL • Relational Modeling • Database Indexing • Transa
 </p>
 
 Practices: CI/CD • Automated Testing • Dockerized Deployment • Code Quality • Workflow Automation
-<h2 align="center">📈 GitHub Contributions</h2>
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <a href="https://github.com/lokmanekerboua?tab=overview">
-    <img src="https://ghchart.rshah.org/409ba5/lokmanekerboua" alt="Lokmane Kerboua GitHub Contributions Calendar" width="100%" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=lokmanekerboua&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokmanekerboua&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most Used Languages" height="180" />
 </p>
 
-<p align="center"><sub>View the live contributions calendar on <a href="https://github.com/lokmanekerboua?tab=overview">GitHub</a>.</sub></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=lokmanekerboua&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+<h3 align="center">📈 Contributions Activity Graph</h3>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lokmanekerboua&theme=github_dark" alt="GitHub Activity Timeline" width="100%" />
+</p>
+
+<h3 align="center">📌 Additional Insights</h3>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lokmanekerboua&theme=github_dark" alt="Profile Summary Statistics" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lokmanekerboua&theme=github_dark&utcOffset=2" alt="Commit Activity by Time of Day (UTC+2)" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lokmanekerboua&theme=github_dark" alt="Repositories per Language" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lokmanekerboua&theme=github_dark" alt="Most Committed Languages" height="170" />
+</p>
+
+<p align="center"><sub>Statistics are generated from publicly accessible GitHub data and may be cached by their providers.</sub></p>
